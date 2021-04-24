@@ -13,6 +13,7 @@
 		F4FE27DA2634C7080038CA69 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F4FE27D82634C7080038CA69 /* Main.storyboard */; };
 		F4FE27DC2634C70B0038CA69 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F4FE27DB2634C70B0038CA69 /* Assets.xcassets */; };
 		F4FE27DF2634C70B0038CA69 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F4FE27DD2634C70B0038CA69 /* LaunchScreen.storyboard */; };
+		F4FE27E82634C7FE0038CA69 /* index.html in Resources */ = {isa = PBXBuildFile; fileRef = F4FE27E72634C7FE0038CA69 /* index.html */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		F4FE27DB2634C70B0038CA69 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F4FE27DE2634C70B0038CA69 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F4FE27E02634C70B0038CA69 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F4FE27E72634C7FE0038CA69 /* index.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				F4FE27D82634C7080038CA69 /* Main.storyboard */,
 				F4FE27DB2634C70B0038CA69 /* Assets.xcassets */,
 				F4FE27DD2634C70B0038CA69 /* LaunchScreen.storyboard */,
+				F4FE27E72634C7FE0038CA69 /* index.html */,
 				F4FE27E02634C70B0038CA69 /* Info.plist */,
 			);
 			path = HtmlLoad;
@@ -125,6 +128,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F4FE27DF2634C70B0038CA69 /* LaunchScreen.storyboard in Resources */,
+				F4FE27E82634C7FE0038CA69 /* index.html in Resources */,
 				F4FE27DC2634C70B0038CA69 /* Assets.xcassets in Resources */,
 				F4FE27DA2634C7080038CA69 /* Main.storyboard in Resources */,
 			);
